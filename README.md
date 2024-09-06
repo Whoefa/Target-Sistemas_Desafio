@@ -8,9 +8,9 @@ Escolhi a Linguagem C# para o desafio. As atividades estão separadas em diretó
 
 
 
-Tive dificuldade na ativade de varrer o Json, nao acho justo copiar e colar o código do GPT.
+Tive dificuldade na atividade de varrer o Json, nao acho justo copiar e colar o código do GPT.
 
-Fiz as atividas da maneira que pude.
+Fiz as atividades da maneira que pude.
 
 Agradeço a oportunidade de realizar essa etapa.
 
