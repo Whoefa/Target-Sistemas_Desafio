@@ -14,4 +14,4 @@ Fiz as atividas da maneira que pude.
 
 Agradeço a oportunidade de realizar essa etapa.
 
-![Banner Target ](caminho/para/imagem)
+![Banner Target ](https://github.com/Whoefa/Target-Sistemas_Desafio/blob/main/targetBanner.png)
